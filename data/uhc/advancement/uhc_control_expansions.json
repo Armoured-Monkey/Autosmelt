@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": "UHC Control Expansions",
+        "description": [
+            "",
+            {
+                "text": "The following data packs are expansions to the UHC Control Data Pack by ArmouredMonkey.",
+                "color": "#e25903"
+            }
+        ],
+        "icon": {
+            "id": "minecraft:piston"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "armouredmonkey:root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

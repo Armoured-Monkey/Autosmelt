@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": "Autosmelt            ",
+        "description": [
+            "",
+            {
+                "text": "This data pack causes food and ores that usually need smelting to come pre-cooked.",
+                "color": "#e25903"
+            }
+        ],
+        "icon": {
+            "id": "minecraft:cooked_beef"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "uhc:uhc_control_expansions",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
